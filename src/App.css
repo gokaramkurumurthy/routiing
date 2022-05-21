@@ -1,0 +1,12 @@
+.nav{
+  display: flex;
+  justify-content: space-around;
+  background-color: orange;
+  color: white;
+  padding: 1%;
+  border-radius: 20px;
+}
+.nav-link{
+  text-decoration: none;
+  color: white;
+}
